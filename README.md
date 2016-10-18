@@ -38,3 +38,56 @@ CSS Motion Paths
 - motion-path, motion-offset, motion-rotation properties
     + just renamed those properites: offset-path, offset-distance, offset-rotation
 
+# Applicable ES6
+@wesbos
+
+#### `let` and `const`
+- block scoped
+    + only available inside the block they're defined in
+- const can't really be changed, but is not immutable!
+    + prevents wiping or re-binding of variable
+
+Template strings
+- will start using backticks!
+    + allow for real string interpolation
+    + can do multiline strings automaticallys
+
+#### If statements
+- uses ternerary statements
+
+#### Render functions
+- can define functions seperately for returning html in string form
+
+#### Default Function Args
+- definable in the function definition (like ruby)
+
+#### Arrow Functions
+- use arrow instead of `function`
+- can lose parens if only one argument
+- implicit return
+    + one liner with no `{}`
+
+#### Enhanced Object Literals
+- create objects from variables, listing the variables once instead of the property name and then the same variable name
+
+#### Tooling
+- Transpiling
+    + Babel ES6 -> ES5 to let it run
+- Polyfill
+    + babel again
+
+#### Destructuring
+- create/assign vars in single line of code
+    + `const {first, twitter, city} = person`
+        * `person` being an object
+- can rename while destructuring
+- default variables in destructure statement
+- works with arrays, too
+- swap values
+
+#### Sets
+- a unique array with solid API for manipulation
+- only can contain unique data
+- `.has('this')`
+- `for(const student of students) {}`
+
