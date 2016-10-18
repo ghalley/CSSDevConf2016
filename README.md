@@ -1,10 +1,10 @@
 
-# The Web Ahead
+## The Web Ahead
 https://speakerdeck.com/jensimmons/revolutionize-your-page-40min-fall-2016
 
 Most layouts' grids come from 960 grid system
 
-Don't design based on available tools
+##### Don't design based on available tools
 
 Float is like a bunch of bars of soap in a bathtub, all of them trying to bubble up to the top
 
@@ -27,18 +27,18 @@ Shape Outside property
 
 Mondrian came up after lots of victorian embellishments and symmetry. Was about uncentered clean structure.
 
-# Motion Paths Beyond SVG
+## Motion Paths Beyond SVG
 @dancwilson
 https://danielcwilson.com/talks/2016/motionpath
 
 SVG using simple lines, paths, keyframes, and transforms
 
-CSS Motion Paths
+### CSS Motion Paths
 - takes stuff from SVG and uses the DOM via css and JS
 - motion-path, motion-offset, motion-rotation properties
     + just renamed those properites: offset-path, offset-distance, offset-rotation
 
-# Applicable ES6
+## Applicable ES6
 @wesbos
 
 #### `let` and `const`
@@ -47,7 +47,7 @@ CSS Motion Paths
 - const can't really be changed, but is not immutable!
     + prevents wiping or re-binding of variable
 
-Template strings
+#### Template strings
 - will start using backticks!
     + allow for real string interpolation
     + can do multiline strings automaticallys
@@ -91,7 +91,7 @@ Template strings
 - `.has('this')`
 - `for(const student of students) {}`
 
-# How to Fight and Prevent Burnout
+## How to Fight and Prevent Burnout
 https://speakerdeck.com/aliciasedlock/how-to-fights-and-prevent-burnout
 
 #### Expectations of Technical Growth
@@ -160,3 +160,24 @@ https://speakerdeck.com/aliciasedlock/how-to-fights-and-prevent-burnout
 ###### We all have intellectual FOMO.
 
 ###### If it's not your bottom line, don't do it.
+
+## Keynote: The Seasonal Web Designer
+- Reign: iPhone game about balance
+
+- cycle of web development and balancing how quickly things move
+
+#### Philosophical
+- purpose behind what we're doing
+
+#### Adventurous
+- translating beliefs into action
+
+#### Constructive
+- do job effectively and efficiently
+
+#### Restorative
+- can I give myself time to heal and recover regularly?
+- not naturally encouraged by the web
+
+
+
