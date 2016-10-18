@@ -27,4 +27,14 @@ Shape Outside property
 
 Mondrian came up after lots of victorian embellishments and symmetry. Was about uncentered clean structure.
 
+# Motion Paths Beyond SVG
+@dancwilson
+https://danielcwilson.com/talks/2016/motionpath
+
+SVG using simple lines, paths, keyframes, and transforms
+
+CSS Motion Paths
+- takes stuff from SVG and uses the DOM via css and JS
+- motion-path, motion-offset, motion-rotation properties
+    + just renamed those properites: offset-path, offset-distance, offset-rotation
 
