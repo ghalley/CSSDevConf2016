@@ -91,3 +91,72 @@ Template strings
 - `.has('this')`
 - `for(const student of students) {}`
 
+# How to Fight and Prevent Burnout
+https://speakerdeck.com/aliciasedlock/how-to-fights-and-prevent-burnout
+
+#### Expectations of Technical Growth
+- expectations of personal growth, side projects
+- assumptions of people's time and feedback
+
+#### Realities of technical growth
+- outside of work hours is unpaid labor
+- ageism in tech
+
+##### Why more public stories of burnout
+
+#### Hypothesis A
+- push for representation
+- minority groups are already working hard just to keep par
+
+#### Hypothesis B
+- devs expected to know everything right away
+
+#### Hypothesis C
+- ageism puts pressure on junior and senior devs
+
+#### Hypothesis D
+- info overload makes us feel behind
+
+#### Stages of burnout
+- compulsion to prove yourself
+- working harder
+    + proving themselves internal/externall
+- neglecting their own needs
+- displacement of conflicts
+- revision of values
+- denial of emerging problems
+    + bleeding into personal life
+- withdrawal/isolation
+- obvious behavioral changes
+- depersonalization (not seeing self as valuable)
+- inner emptiness
+- depression
+- burnout syndrome
+    + physical/emotional collapse, may require medical attention at this stage
+
+#### Burnout vs brownout
+- latter doesn't have collapse, but may be an omen of the former
+- burnout/brownout treated as a badge
+
+## What to do about it?
+- It's as much about the person as it is about the organization
+
+#### As Individuals
+- Say no
+- check in on yourself actively
+- learn in moderation
+- focus on extensible knowledge
+- what do you want people to know you for?
+- passive learning
+
+#### As Leaders
+- take no as an answer
+- don't assume people will speak up
+- make sure your employees are set up for success
+- 1-on-1 meetings
+- want them to learn, so give them the time to do it
+- understand boundaries
+
+###### We all have intellectual FOMO.
+
+###### If it's not your bottom line, don't do it.
